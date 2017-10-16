@@ -1,0 +1,6 @@
+﻿  Bilateral_Filter.cpp
+d:\my_code\vs2013\image processing\bilateral_filter.cpp(78): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\my_code\vs2013\image processing\bilateral_filter.cpp(79): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\my_code\vs2013\image processing\bilateral_filter.cpp(80): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  Image Processing.vcxproj -> D:\my_code\vs2013\Image Processing\x64\Debug\Image Processing.exe
+  Image Processing.vcxproj -> D:\my_code\vs2013\Image Processing\x64\Debug\Image Processing.pdb (Partial PDB)
